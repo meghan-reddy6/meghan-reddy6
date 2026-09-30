@@ -1,37 +1,33 @@
-<h1 align="center">Hi 👋, I'm Meghan</h1>
+# Meghan Sai
 
-<h3 align="center">
-  Data Science & AI | Machine Learning Research
-</h3>
-
-<p align="center">
-  Working on machine learning research and building data-driven intelligent systems,
-  with a focus on healthcare AI and learning from limited data.
-</p>
+I work on machine learning, computer vision, and IoT systems—exploring how models learn with limited data and how they run efficiently in real-world settings.
 
 ---
 
-### 🔬 Research & Work
-- 🔭 Currently working on **Chaos-Enhanced Few-Shot Medical Image Classification**
-- 🌱 Learning **Advanced Machine Learning, Deep Learning, Computer Vision**, and **Research Methodology**
-- 👯 Open to **ML/DL research collaborations**
-- 🤝 Interested in **model generalization under limited data**
-- 💬 Ask me about **ML, DL, Computer Vision, PyTorch, TensorFlow**
-- 📫 Reach me at **meghansai6@gmail.com**
+### What I Work On
+
+- **Research:** Few-shot learning, medical image classification, and efficient vision architectures.
+- **Exploration:** Edge AI, IoT systems, and lightweight model inference.
+- **Code:** Small experiments, prototypes, and open-source implementations.
 
 ---
 
-### 🌐 Connect
-<p align="left">
-  <a href="https://linkedin.com/in/meghansaich" target="_blank">LinkedIn</a>
-</p>
+### Selected Research
+
+- **Chaos-Enhanced Prototypical Networks for Few-Shot Medical Image Classification**  
+  Investigating nonlinear/chaotic approaches to improve representation learning with scarce labeled medical data.
+
+- **Computer Vision-Based Detection and Classification of Welding Defects**  
+  Applying visual inspection techniques to industrial quality control.
+
+- **Fine-Tuned MobileNetV2 for Multiclass Leaf Classification**  
+  Studying lightweight backbones and activation functions for resource-constrained environments.
 
 ---
 
-### 🧠 Tech Stack
-<p align="left">
-  Python · C · C++ · Java  
-  PyTorch · TensorFlow · scikit-learn  
-  Pandas · OpenCV · Seaborn  
-  MySQL · MongoDB · Git
-</p>
+### Find Me
+
+- [Google Scholar](https://scholar.google.com/citations?user=MonP6pkAAAAJ&hl=en&oi=ao)
+- [GitHub](https://github.com/meghan-reddy6)
+- [LinkedIn](https://linkedin.com/in/meghansaich)
+- Email: [meghansai6@gmail.com](mailto:meghansai6@gmail.com)
